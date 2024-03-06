@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokesh-Kudipudi
 - 👀 I’m interested in Artificial Intelligence and Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning about Deep Learning
 - 📫 Feel free to mail me to contact me
 
 <!---
