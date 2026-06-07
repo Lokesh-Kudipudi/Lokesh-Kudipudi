@@ -1,22 +1,29 @@
-<h1 align="center">Lokesh Kudipudi</h1>
-<h2 align="center">BTech CSE student from <br> Indian Institute of Information Technology Sri City</h2>
-<h3>About Me 🧑‍🎓</h3>
-<ul>
-  <li>I'm Interested in Machine Learning and Web Development</li>
-  <li>I like building useful applications </li>
-</ul>
-<h3>My Skills 🛠️</h3>
-<div style={display:'flex'}>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-</div>
+# Hi, I'm Lokesh 👋
 
-All icons by <a href="https://icons8.com">Icons8</a>
-<!---
-Lokesh-Kudipudi/Lokesh-Kudipudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a CS undergrad at IIIT Sri City who builds at the intersection of AI/ML and full-stack engineering.
+
+I like working on problems where the interesting challenge is the gap between a research idea and something that runs reliably in production — whether that's agentic AI systems, real-time language and voice pipelines, computer vision, or the MLOps glue that holds it all together.
+
+---
+
+## 🛠 Tech I work with
+
+**Languages** · Python · TypeScript · JavaScript · C++
+
+**AI/ML** · PyTorch · HuggingFace Transformers · LangGraph · OpenCV · Whisper ASR · Kokoro TTS · IndicTrans2
+
+**MLOps** · MLflow · DVC · Airflow · Docker · Grafana · Prometheus · DagsHub · Weights & Biases
+
+**Web** · React · Node.js · FastAPI · Flask · MongoDB · Redis · Socket.IO · Gemini API
+
+---
+
+## 📌 A few things about me
+
+- 🏆 GATE 2026 CS — All India Rank **1308** (Score: 689)
+- 🎓 B.Tech CSE @ IIIT Sri City · CGPA **9.13/10**
+- 🧠 Club Lead, Epoch AI/ML Club — running DL & GenAI workshops for 100+ students
+- 🔍 Interested in agentic systems, real-time AI, and making models work in the wild
+- 📬 lokesh.k23@iiits.in
+
+---
